@@ -1,0 +1,6 @@
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\bin\Debug\CapaInterfaces.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\bin\Debug\CapaInterfaces.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\obj\Debug\CapaInterfaces.csproj.AssemblyReference.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\obj\Debug\CapaInterfaces.csproj.CoreCompileInputs.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\obj\Debug\CapaInterfaces.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaInterfaces\obj\Debug\CapaInterfaces.pdb

@@ -1,0 +1,15 @@
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaInterfaces.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaServicios.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaInterfaces.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\bin\Debug\CapaServicios.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaNegocios\obj\Debug\CapaNegocios.pdb

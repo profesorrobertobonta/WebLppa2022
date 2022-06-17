@@ -1,0 +1,9 @@
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\bin\Debug\CapaInterfaces.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\bin\Debug\CapaInterfaces.pdb
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\obj\Debug\CapaEntidades.csproj.CopyComplete
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Facultad\Materias de 4to AÑO\LPPA (38)\2022\SiTurno Web\CapaEntidades\obj\Debug\CapaEntidades.pdb
